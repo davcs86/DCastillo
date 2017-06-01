@@ -25,3 +25,11 @@
 *.orig
 *.pdf
 *.gz
+
+psheader.txt
+resu.4ct
+resu.4tc
+resu.tmp
+resu.xref
+Resume_DavidCastillo.doc
+Resume_DavidCastillo.rtf
